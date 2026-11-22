@@ -1,0 +1,14 @@
+{
+  "name": "pdf-olusturucu",
+  "version": "1.0.0",
+  "description": "Fotoğraf ve PDF dosyalarından maskeleme ve kırpma destekli tek bir PDF oluşturan yerel web uygulaması",
+  "main": "sunucu.js",
+  "scripts": {
+    "start": "node sunucu.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": ["pdf", "image-to-pdf", "redact", "mask", "crop"],
+  "private": true
+}

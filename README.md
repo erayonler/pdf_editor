@@ -79,3 +79,4 @@ Farklı bir port için: `PORT=9000 npm start`
 - [PDF.js](https://github.com/mozilla/pdf.js) 3.11.174 — Apache-2.0
 - [jsPDF](https://github.com/parallax/jsPDF) 2.5.1 — MIT
 - [SortableJS](https://github.com/SortableJS/Sortable) 1.15.0 — MIT
+  
